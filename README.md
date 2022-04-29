@@ -1,1 +1,1 @@
-la clase esta ubicada en la carpeta /bin en unn archivo .dart, no faltaria menos.
+la clase esta ubicada en la carpeta /bin en un archivo .dart, no faltaria menos.
